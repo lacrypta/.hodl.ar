@@ -1,0 +1,11 @@
+{
+  "name": "links-custodial",
+  "version": "0.3.0",
+  "main": "index.js",
+  "repository": "https://github.com/lacrypta/links-custodial.git",
+  "author": "Agustin Kassis <webmaster@masize.com>",
+  "license": "MIT",
+  "dependencies": {
+    "toml": "^3.0.0"
+  }
+}
