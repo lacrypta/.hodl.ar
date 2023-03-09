@@ -6,6 +6,7 @@
   "author": "Agustin Kassis <webmaster@masize.com>",
   "license": "MIT",
   "dependencies": {
-    "toml": "^3.0.0"
+    "toml": "^3.0.0",
+    "yaml": "^2.2.1"
   }
 }

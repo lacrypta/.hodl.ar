@@ -1,12 +1,13 @@
 const toml = require("toml");
+const yaml = require("yaml");
 const fs = require("fs");
 
 const fileContent = {
-  gura: fs.readFileSync("./config.ura", "utf8"),
   toml: fs.readFileSync("./config.toml", "utf8"),
+  yaml: fs.readFileSync("./config.yml", "utf8"),
 };
 
 // console.dir(parse(fileContent.gura));
-const config = toml.parse(fileContent.toml);
+const config = yaml.parse(fileContent.yaml);
 
-console.dir(JSON.parse(JSON.stringify(config)));
+console.dir(config);
