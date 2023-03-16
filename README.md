@@ -1,9 +1,9 @@
 # Links Custodial
 
-Your own links served by **La Crypta**
+Your own links served by **HODL.AR**
 
 ## How to start
 
-- Fork this repo
+- Fork this repo and keep the name **.hodl.ar**
 - Edit [config.yml](config.yml)
-- [Click to see it](https://custodial.lacrypta.ar/referrer)
+- [Click to see it](https://custodial.hodl.ar/referrer)
