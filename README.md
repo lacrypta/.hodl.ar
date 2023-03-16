@@ -6,4 +6,4 @@ Your own links served by **HODL.AR**
 
 - Fork this repo and keep the name **.hodl.ar**
 - Edit [config.yml](config.yml)
-- [Click to see it](https://custodial.hodl.ar/referrer)
+- [Click to see it](https://hodl.ar/api/subdomain/redirect)
