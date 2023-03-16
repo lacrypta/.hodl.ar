@@ -2,7 +2,7 @@
 version: 0.3.0
 
 # HTML Head settings
-head:
+html:
   title: La Crypta | Custodial
 
 # Main container settings
