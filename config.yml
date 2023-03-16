@@ -3,11 +3,11 @@ version: 0.3.0
 
 # HTML Head settings
 head:
-  title: La Crypta | Links
+  title: La Crypta | Custodial
 
 # Main container settings
 main:
-  title: LA CRYPTA
+  title: LA CRYPTA Custodial
 
 # Blocks list
 blocks:
