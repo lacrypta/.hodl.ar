@@ -1,21 +1,40 @@
-# Subdominio .links.hodl.ar
+# 🧉 Subdominio .links.hodl.ar 🇦🇷
 
-Copias el repositorio y tenes USUARIO_DE_GITHUB.**links.hodl.ar**
+> en ⏱ **42** segundos ☝
 
-## Que hay que hacer?
+Copias el repositorio y tenes `USUARIO_DE_GITHUB`.**links.hodl.ar**
 
-- Clonas el repositorio (este proyecto)
-- No le cambies el NOMBRE (dejalo como .hodl.ar)!
-- No le cambies el NOMBRE (dejalo como .hodl.ar)!
-- En Github le decimos [Fork](https://github.com/lacrypta/.hodl.ar/fork) <-- Click acá
-```
-No tenes cuenta? Create una, es GRATIS.
-```
-- Editas el archivo [config.yml](config.yml)
-- [CLICK ACÁ](https://hodl.ar/api/subdomain/redirect) para verlo
+## Qué hay que hacer 🤌🤌 ?
 
-```
-En Brave no redirige. Entrá directo a https://TU_USUARIO_DE_GITHUB.links.hodl.ar
-```
+- Clonas el **repositorio** _(este proyecto)_ ✅
+- En Github le decimos [Fork](https://github.com/lacrypta/.hodl.ar/fork) ⬅ **CLICK en Fork**
+  ![Register](./docs/register.png "Register")
+
+- No tenes cuenta? Create una, es **GRATIS**. siempre.
+
+> No le cambies el NOMBRE (dejalo como **.hodl.ar**)!
+
+## Una vez forkeado:
+
+- Editas el archivo ✏ [config.yml](config.yml)
+  > ✏ Apretas el Lapiz para editar
+  > ![Edit config.yml](./docs/edit.png "Edit config.yml")
+
+## Reemplazas por tus datos
+
+- Respetá los espacios ✅
+- Poné tus redes sociales
+- Cuando terminaste, **Guardas los cambios** (En Github le decimos **Commit**)
+
+![Commit](./docs/commit.png "Commit Changes")
+
+# Hacé [CLICK ACÁ](https://hodl.ar/api/subdomain/redirect) para verlo
+
+<sub>_En Brave no redirige. Entra directo a https://_`TU_USUARIO_DE_GITHUB`_.links.hodl.ar_</sub>
 
 ---
+
+## Te pareció facil?
+
+Ahora vamos en serio, pero en inglés.
+[Click here](https://github.com/lacrypta/links), please.
