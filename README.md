@@ -8,17 +8,20 @@ Copias el repositorio y tenes `USUARIO_DE_GITHUB`.**links.hodl.ar**
 
 - Clonas el **repositorio** _(este proyecto)_ ✅
 - En Github le decimos [Fork](https://github.com/lacrypta/.hodl.ar/fork) ⬅ **CLICK en Fork**
-  ![Register](https://raw.githubusercontent.com/lacrypta/.hodl.ar/hidden/docs/register.png "Register")
+- Hace click en el botón **Fork**.
 
-- No tenes cuenta? Create una, es **GRATIS**. siempre.
+<sub>_Dejale el nombre **.hodl.ar** (No lo cambies)!_</sub>
 
-> No le cambies el NOMBRE (dejalo como **.hodl.ar**)!
+![Register](https://raw.githubusercontent.com/lacrypta/.hodl.ar/hidden/docs/register.png "Register")
+
+> <sub>_No tenes cuenta? Create una, es **GRATIS**. siempre._<sub>
 
 ## Una vez forkeado:
 
-- Editas el archivo ✏ [config.yml](config.yml)
-  > ✏ Apretas el Lapiz para editar
-  > ![Edit config.yml](https://raw.githubusercontent.com/lacrypta/.hodl.ar/hidden/docs/edit.png "Edit config.yml")
+Editas el archivo ✏ [config.yml](config.yml)
+
+> ✏ Apretas el Lapiz para editar
+> ![Edit config.yml](https://raw.githubusercontent.com/lacrypta/.hodl.ar/hidden/docs/edit.png "Edit config.yml")
 
 ## Reemplazas por tus datos
 
