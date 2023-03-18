@@ -1,9 +1,26 @@
-# Links Custodial
+# Subdominio .links.hodl.ar
 
-Your own links served by **HODL.AR**
+Copias el repositorio y tenes USUARIO_DE_GITHUB.**links.hodl.ar**
 
-## How to start
+## Que hay que hacer?
 
-- [Fork](https://github.com/lacrypta/.hodl.ar/fork) this repo and keep the name **.hodl.ar** (DON'T CHANGE IT!)
-- Edit [config.yml](config.yml)
-- [Click to see it](https://hodl.ar/api/subdomain/redirect)
+- Clonamos el repositorio
+- No le cambies el NOMBRE!
+- En Github le decimos [Fork](https://github.com/lacrypta/.hodl.ar/fork) <-- Click acá
+```
+Create GRATIS una cuenta de Github si no tenes.
+```
+- Editas el archivo [config.yml](config.yml)
+- [CLICK ACÁ](https://hodl.ar/api/subdomain/redirect) para verlo
+
+```
+En Brave no redirige. Entrá directo a https://**TU_USUARIO_DE_GITHUB**.links.hodl.ar
+```
+
+
+
+
+
+
+---
+
