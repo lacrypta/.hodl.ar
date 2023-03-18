@@ -15,8 +15,6 @@ Solo vas a modificar un archivo.
 
 ![Register](https://raw.githubusercontent.com/lacrypta/.hodl.ar/hidden/docs/register.png "Register")
 
-<img src="https://raw.githubusercontent.com/lacrypta/.hodl.ar/hidden/docs/register.png" />
-
 > <sub>_No tenes cuenta? Create una, es **GRATIS**. siempre._<sub>
 
 ## Una vez forkeado:
