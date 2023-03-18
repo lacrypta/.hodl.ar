@@ -3,38 +3,34 @@ version: 0.3.0
 
 # HTML Head settings
 html:
-  title: La Crypta | Custodial
+  title: La Crypta | Custodial # Este es el nombre que aparece en la pestaña de navedagor
 
 # Main container settings
 main:
-  title: LA CRYPTA Custodial
+  title: LA CRYPTA Custodial # Aca podes poner tu nombre o el de tu producto
 
 # Blocks list
 blocks:
-  - title: Instagram
-    icon: instagram
-    url: https://instagram.lacrypta.com.ar
 
-  - title: Discord
-    icon: discord
-    url: https://discord.lacrypta.com.ar
+# Estos bloques los podes editar cambiando SOLO el texto que está en blanco
+# Si querés eliminar una red social es tan facil como borrar los 3 campos correspondientes (ttile, icon, url)
 
-  - title: Quiero participar!
-    icon: voluntary
-    url: https://docs.google.com/forms/d/e/1FAIpQLSfMM_fDXrBVlxujPy4yhYRuhHWrtPSvoD8QRCKuHzZXgsFFzg/viewform
+  - title: LinkedIn # Este es el nombre del botón 
+    icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minuscula)
+    url: https://linkedin.com/in/TU-USUARIO # Link a donde redireccionará al hacer click
 
   - title: Github
     icon: github
-    url: https://github.lacrypta.com.ar
-
+    url: https://github.com/TU-USUARIO
+  
   - title: Twitter
     icon: twitter
-    url: https://twitter.lacrypta.com.ar
+    url: https://twitter.com/TU-USUARIO
 
   - title: Sitio Web
     icon: url
-    url: https://www.lacrypta.com.ar/
+    url: https://www.TU-WEB.com
 
-  - title: WhatsApp
-    icon: whatsapp
-    url: https://api.whatsapp.com/send/?phone=%2B541131080456&text=Hola+como+estan&type=phone_number&app_absent=0
+  - title: Telegram
+    icon: telegram
+    url: https://t.me/TU-USUARIO
