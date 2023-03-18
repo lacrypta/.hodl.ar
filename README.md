@@ -2,7 +2,8 @@
 
 > en ⏱ **42** segundos ☝
 
-Copias el repositorio y tenes `USUARIO_DE_GITHUB`.**links.hodl.ar**
+Copias el repositorio y tenes https://`USUARIO_DE_GITHUB`.**links.hodl.ar**
+Solo vas a modificar un archivo.
 
 ## Qué hay que hacer 🤌🤌 ?
 
@@ -13,6 +14,8 @@ Copias el repositorio y tenes `USUARIO_DE_GITHUB`.**links.hodl.ar**
 <sub>_Dejale el nombre **.hodl.ar** (No lo cambies)!_</sub>
 
 ![Register](https://raw.githubusercontent.com/lacrypta/.hodl.ar/hidden/docs/register.png "Register")
+
+<img src="https://raw.githubusercontent.com/lacrypta/.hodl.ar/hidden/docs/register.png" />
 
 > <sub>_No tenes cuenta? Create una, es **GRATIS**. siempre._<sub>
 
