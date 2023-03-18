@@ -8,7 +8,7 @@ Copias el repositorio y tenes `USUARIO_DE_GITHUB`.**links.hodl.ar**
 
 - Clonas el **repositorio** _(este proyecto)_ ✅
 - En Github le decimos [Fork](https://github.com/lacrypta/.hodl.ar/fork) ⬅ **CLICK en Fork**
-  ![Register](./docs/register.png "Register")
+  ![Register](https://raw.githubusercontent.com/lacrypta/.hodl.ar/hidden/docs/register.png "Register")
 
 - No tenes cuenta? Create una, es **GRATIS**. siempre.
 
@@ -18,7 +18,7 @@ Copias el repositorio y tenes `USUARIO_DE_GITHUB`.**links.hodl.ar**
 
 - Editas el archivo ✏ [config.yml](config.yml)
   > ✏ Apretas el Lapiz para editar
-  > ![Edit config.yml](./docs/edit.png "Edit config.yml")
+  > ![Edit config.yml](https://raw.githubusercontent.com/lacrypta/.hodl.ar/hidden/docs/edit.png "Edit config.yml")
 
 ## Reemplazas por tus datos
 
@@ -26,7 +26,7 @@ Copias el repositorio y tenes `USUARIO_DE_GITHUB`.**links.hodl.ar**
 - Poné tus redes sociales
 - Cuando terminaste, **Guardas los cambios** (En Github le decimos **Commit**)
 
-![Commit](./docs/commit.png "Commit Changes")
+![Commit](https://raw.githubusercontent.com/lacrypta/.hodl.ar/hidden/docs/commit.png "Commit Changes")
 
 # Hacé [CLICK ACÁ](https://hodl.ar/api/subdomain/redirect) para verlo
 
