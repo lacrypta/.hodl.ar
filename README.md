@@ -2,7 +2,7 @@
 
 Tiempo estimado: ⏱ **98** segundos
 
-**RECOMPENSA:** Tu propio subdominio https://**USUARIO_DE_GITHUB**.**links.hodl.ar** GRATIS
+**RECOMPENSA:** Tu propio subdominio https://**USUARIO_DE_GITHUB**.links.hodl.ar GRATIS
 
 ## Pasos
 
