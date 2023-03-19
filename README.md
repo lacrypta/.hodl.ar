@@ -1,6 +1,6 @@
 # 🧉 Subdominio .links.hodl.ar 🇦🇷
 
-Tiempo estimado: ⏱ **42** segundos
+Tiempo estimado: ⏱ **98** segundos
 
 **RECOMPENSA:** Tu propio subdominio https://**USUARIO_DE_GITHUB**.**links.hodl.ar** GRATIS
 
