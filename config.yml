@@ -1,11 +1,16 @@
 # ESTO ES UN COMENTARIO
 # Todo lo que está a la derecha de # es solo para nosotros
 
-version: 0.3.2 # NO TOCAR
+version: 0.3.5 # NO TOCAR
 
 # Configuración Global
 html:
   title: Links | Mi Nombre # Este es el Título que aparece en la pestaña de navegador
+
+# Colores de plantilla
+theme:
+  background_color: "#f9fafb"
+  # cover_color: "#ff7070"
 
 # Configuración Central
 main:
