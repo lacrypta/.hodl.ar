@@ -12,7 +12,7 @@ Tiempo estimado: ⏱ **98** segundos
 
 ## Despacito! Cómo carajo se hace 🤌🤌 ?
 
-- Clonas el **repositorio** _(este proyecto)_ ✅
+- Clonas el **repositorio** _(este proyecto)_ 👇
 - En Github le decimos [Fork](https://github.com/lacrypta/.hodl.ar/fork) ⬅ **CLICK en Fork**
 
 > ATENCION: Si no tenes cuenta seguí los pasos para **registrate**, es **GRATIS** para siempre.
