@@ -31,8 +31,8 @@ Crea la cuenta
 
 ## Una vez forkeado:
 
-Fijate que la dirección del navegador diga: https://github.com/TU_USUARIO_DE_GITHUB/.hodl.ar/
-Editas el archivo ➡️ [config.yml](config.yml)
+- Fijate que la dirección del navegador diga: https://github.com/TU_USUARIO_DE_GITHUB/.hodl.ar/
+- Edita el archivo ➡️ [config.yml](config.yml) (Abrí una pestaña nueva para no perder estas instrucciones)
 
 > ✏ Apretas el Lapiz para editar
 > ![Edit config.yml](https://raw.githubusercontent.com/lacrypta/.hodl.ar/hidden/docs/edit.png "Edit config.yml")
