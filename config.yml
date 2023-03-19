@@ -1,40 +1,24 @@
 # Config version
-version: 0.3.0
+version: 0.3.2
 
 # HTML Head settings
 html:
-  title: La Crypta | Custodial
+  title: Links | Mi Nombre
 
 # Main container settings
 main:
-  title: LA CRYPTA Custodial
+  title: Mi Nombre
 
 # Blocks list
 blocks:
   - title: Instagram
     icon: instagram
-    url: https://instagram.lacrypta.com.ar
-
-  - title: Discord
-    icon: discord
-    url: https://discord.lacrypta.com.ar
-
-  - title: Quiero participar!
-    icon: voluntary
-    url: https://docs.google.com/forms/d/e/1FAIpQLSfMM_fDXrBVlxujPy4yhYRuhHWrtPSvoD8QRCKuHzZXgsFFzg/viewform
-
-  - title: Github
-    icon: github
-    url: https://github.lacrypta.com.ar
+    url: https://www.instagram.com/lacryptaok/
 
   - title: Twitter
     icon: twitter
     url: https://twitter.lacrypta.com.ar
 
-  - title: Sitio Web
-    icon: url
-    url: https://www.lacrypta.com.ar/
-
-  - title: WhatsApp
-    icon: whatsapp
-    url: https://api.whatsapp.com/send/?phone=%2B541131080456&text=Hola+como+estan&type=phone_number&app_absent=0
+  - title: Github
+    icon: github
+    url: https://github.com/lacrypta
