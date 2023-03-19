@@ -5,7 +5,7 @@ version: 0.3.2 # NO TOCAR
 
 # Configuración Global
 html:
-  title: Links | Mi Nombre # Este es el Título que aparece en la pestaña de navedagor
+  title: Links | Mi Nombre # Este es el Título que aparece en la pestaña de navegador
 
 # Configuración Central
 main:
@@ -39,4 +39,5 @@ blocks:
   - title: Telegram
     icon: telegram
     url: https://t.me/TU-USUARIO
-# Guardá el archivo haciendo click en Commit, abajo
+    
+# Guardá el archivo haciendo click en Commit Changes, abajo
