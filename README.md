@@ -1,24 +1,37 @@
 # 🧉 Subdominio .links.hodl.ar 🇦🇷
 
-> en ⏱ **42** segundos ☝
+Tiempo estimado: ⏱ **42** segundos
 
-Copias el repositorio y tenes https://`USUARIO_DE_GITHUB`.**links.hodl.ar**
-Solo vas a modificar un archivo.
+**RECOMPENSA:** Tu propio subdominio https://**USUARIO_DE_GITHUB**.**links.hodl.ar** GRATIS
 
-## Qué hay que hacer 🤌🤌 ?
+## Pasos
+
+- Crear cuenta de Github
+- Forkear (Copiar este proyecto)
+- Editas el archivo [config.yml](config.yml)
+
+## Despacito! Cómo carajo se hace 🤌🤌 ?
 
 - Clonas el **repositorio** _(este proyecto)_ ✅
 - En Github le decimos [Fork](https://github.com/lacrypta/.hodl.ar/fork) ⬅ **CLICK en Fork**
-- Hace click en el botón **Fork**.
 
-<sub>_Dejale el nombre **.hodl.ar** (No lo cambies)!_</sub>
+> ATENCION: Si no tenes cuenta seguí los pasos para **registrate**, es **GRATIS** para siempre.
+
+## Si ya tenes cuenta, salteá este paso:
+
+Crea la cuenta
 
 ![Register](https://raw.githubusercontent.com/lacrypta/.hodl.ar/hidden/docs/register.png "Register")
 
-> <sub>_No tenes cuenta? Create una, es **GRATIS**. siempre._<sub>
+- Completá todos tus datos y no te olvides de **verificar tu email**.
+
+- Una vez registrado se inicia el **Fork** (copia completa de este proyecto)
+
+- Dejale el mismo nombre, no cambies nada y dale al botón **Fork**.
 
 ## Una vez forkeado:
 
+Fijate que la dirección del navegador diga: https://github.com/**USUARIO_DE_GITHUB**/.hodl.ar/
 Editas el archivo ✏ [config.yml](config.yml)
 
 > ✏ Apretas el Lapiz para editar
