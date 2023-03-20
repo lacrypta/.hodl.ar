@@ -6,32 +6,19 @@ Tiempo estimado: ⏱ **98** segundos
 
 ## Pasos
 
-- Crear cuenta de Github
+- Tener cuenta de Github ([CLICK ACÁ](https://github.com/lacrypta/github-start/blob/main/languages/esAR/GITHUB_SIGNUP.md) para crearte una)
 - Forkear (Copiar este proyecto)
-- Editas el archivo [config.yml](config.yml)
+- Editas el archivo **config.yml**
 
 ## Despacito! Cómo carajo se hace 🤌🤌 ?
 
 - Clonas el **repositorio** _(este proyecto)_ 👇
 - En Github le decimos [Fork](https://github.com/lacrypta/.hodl.ar/fork) ⬅ **CLICK en Fork**
-
-> ATENCION: Si no tenes cuenta seguí los pasos para **registrate**, es **GRATIS** para siempre.
-
-## Si ya tenes cuenta, salteá este paso:
-
-Crea la cuenta
-
-![Register](https://raw.githubusercontent.com/lacrypta/.hodl.ar/hidden/docs/register.png "Register")
-
-- Completá todos tus datos y no te olvides de **verificar tu email**.
-
-- Una vez registrado se inicia el **Fork** (copia completa de este proyecto)
-
 - Dejale el mismo nombre, no cambies nada y dale al botón **Fork**.
 
 ## Una vez forkeado:
 
-- Fijate que la dirección del navegador diga: https://github.com/TU_USUARIO_DE_GITHUB/.hodl.ar/
+- Fijate que la dirección del navegador sea: https://github.com/TU_USUARIO_DE_GITHUB/.hodl.ar/
 - Edita el archivo ➡️ [config.yml](config.yml) (Abrí una pestaña nueva para no perder estas instrucciones)
 
 > ✏ Apretas el Lapiz para editar
