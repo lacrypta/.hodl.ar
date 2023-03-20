@@ -37,11 +37,17 @@ Edita el archivo ➡️ [config.yml](config.yml) (Abrí una pestaña nueva para 
 
 - Respetá los espacios ✅
 - Poné tus redes sociales
-- Cuando terminaste, **Guardas los cambios** (En Github le decimos **Commit**)
+- **Guarda los cambios** (En Github le decimos **Commit**)
 
 ![Commit](https://raw.githubusercontent.com/lacrypta/.hodl.ar/hidden/docs/commit.png "Commit Changes")
 
 ---
+
+## Cómo cambio mi foto de Perfil?
+- Vas a tu perfil [PERFIL DE GITHUB](https://github.com/settings/profile)
+- Subis tu imagen
+- Se actualiza automáticamente en [TU SITIO](https://hodl.ar/api/subdomain/redirect)
+
 
 ## Easy, right?
 
