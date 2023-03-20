@@ -6,7 +6,7 @@ Tiempo estimado: ⏱ **98** segundos
 
 ## Pasos
 
-- Tener cuenta de Github ([CLICK ACÁ](https://github.com/lacrypta/github-start/blob/main/languages/esAR/GITHUB_SIGNUP.md) para crearte una)
+- Si no tenes cuenta en Github ya ([CLICK ACÁ](https://github.com/lacrypta/github-start/blob/main/languages/esAR/GITHUB_SIGNUP.md) para crearte una)
 - Forkear (Copiar este proyecto)
 - Editas el archivo **config.yml**
 
