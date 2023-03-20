@@ -8,7 +8,7 @@ Tiempo estimado: ⏱ **98** segundos
 
 - Si no tenes cuenta en Github ya ([CLICK ACÁ](https://github.com/lacrypta/github-start/blob/main/languages/esAR/GITHUB_SIGNUP.md) para crearte una)
 - Forkear (Copiar este proyecto)
-- Editas el archivo **config.yml**
+- Editar el archivo **config.yml**
 
 ## Despacito! Cómo carajo se hace 🤌🤌 ?
 
@@ -18,8 +18,17 @@ Tiempo estimado: ⏱ **98** segundos
 
 ## Una vez forkeado:
 
-- Fijate que la dirección del navegador sea: https://github.com/TU_USUARIO_DE_GITHUB/.hodl.ar/
-- Edita el archivo ➡️ [config.yml](config.yml) (Abrí una pestaña nueva para no perder estas instrucciones)
+- ☝️ Fijate que la dirección del navegador sea: https://github.com/TU_USUARIO_DE_GITHUB/.hodl.ar/
+- Abrí el siguiente link en una pestaña nueva
+
+> Nueva pestaña, por favor 👇
+# [VISTA PREVIA](https://hodl.ar/api/subdomain/redirect)
+
+<sub>_En Brave no redirige. Entra directo a https://_`TU_USUARIO_DE_GITHUB`_.links.hodl.ar_</sub>
+
+## Como le pongo mis datos?
+
+Edita el archivo ➡️ [config.yml](config.yml) (Abrí una pestaña nueva para no perder estas instrucciones)
 
 > ✏ Apretas el Lapiz para editar
 > ![Edit config.yml](https://raw.githubusercontent.com/lacrypta/.hodl.ar/hidden/docs/edit.png "Edit config.yml")
@@ -31,10 +40,6 @@ Tiempo estimado: ⏱ **98** segundos
 - Cuando terminaste, **Guardas los cambios** (En Github le decimos **Commit**)
 
 ![Commit](https://raw.githubusercontent.com/lacrypta/.hodl.ar/hidden/docs/commit.png "Commit Changes")
-
-# Hacé [CLICK ACÁ](https://hodl.ar/api/subdomain/redirect) para verlo
-
-<sub>_En Brave no redirige. Entra directo a https://_`TU_USUARIO_DE_GITHUB`_.links.hodl.ar_</sub>
 
 ---
 
