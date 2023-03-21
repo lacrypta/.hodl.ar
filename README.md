@@ -31,7 +31,7 @@ Tiempo estimado: ⏱ **98** segundos
 Edita el archivo ➡️ [config.yml](config.yml) (Abrí una pestaña nueva para no perder estas instrucciones)
 
 > ✏ Apretas el Lapiz para editar
-> ![Edit config.yml](https://raw.githubusercontent.com/lacrypta/.hodl.ar/hidden/docs/edit.png "Edit config.yml")
+> [![Edit config.yml](https://raw.githubusercontent.com/lacrypta/.hodl.ar/hidden/docs/edit.png "Edit config.yml")](#como-le-pongo-mis-datos)
 
 ## Reemplazas por tus datos
 
@@ -39,7 +39,7 @@ Edita el archivo ➡️ [config.yml](config.yml) (Abrí una pestaña nueva para 
 - Poné tus redes sociales
 - **Guarda los cambios** (En Github le decimos **Commit**)
 
-![Commit](https://raw.githubusercontent.com/lacrypta/.hodl.ar/hidden/docs/commit.png "Commit Changes")
+[![Commit](https://raw.githubusercontent.com/lacrypta/.hodl.ar/hidden/docs/commit.png "Commit Changes")](#reemplazas-por-tus-datos)
 
 ---
 
