@@ -1,8 +1,8 @@
-# 🧉 Subdominio .links.hodl.ar 🇦🇷
+# 🧉 Subdominio .github.hodl.ar 🇦🇷
 
 Tiempo estimado: ⏱ **98** segundos
 
-**RECOMPENSA:** Tu propio subdominio https://**USUARIO_DE_GITHUB**.links.hodl.ar GRATIS
+**RECOMPENSA:** Tu propio subdominio https://**USUARIO_DE_GITHUB**.github.hodl.ar GRATIS
 
 ## Pasos
 
@@ -24,7 +24,7 @@ Tiempo estimado: ⏱ **98** segundos
 > Nueva pestaña, por favor 👇
 # [VISTA PREVIA](https://hodl.ar/api/subdomain/redirect)
 
-<sub>_En Brave no redirige. Entra directo a https://_`TU_USUARIO_DE_GITHUB`_.links.hodl.ar_</sub>
+<sub>_En Brave no redirige. Entra directo a https://_`TU_USUARIO_DE_GITHUB`_.github.hodl.ar_</sub>
 
 ## Como le pongo mis datos?
 
