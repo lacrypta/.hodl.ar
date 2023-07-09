@@ -45,9 +45,9 @@ blocks:
   # icon: github
   # url: https://github.com/Braianalvez
 
- #- title: Sitio Web
-  # icon: url
-   #url: https://marea.pro/braiancmo
+ - title: Sitio Web
+   icon: url
+   url: https://marea.pro/braiancmo
 
  #- title: Telegram
   # icon: telegram
