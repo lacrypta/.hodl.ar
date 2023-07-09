@@ -3,10 +3,10 @@
 
 version: 0.3.5 # NO TOCAR
 
- HODL username
+# HODL username
  username: "braianalvez" # < braianalvez@hodl.ar
 
- NOSTR Settings
+ #NOSTR Settings
  nostr: # Sin el # adelante
    npub: "npub16egmpnzjlc2ssxfxdltza7meu0u9j9smx07q2jaf3ep4xlj2jcqsma2vyk" # Entre comillas dobles
 
