@@ -4,7 +4,7 @@
 version: 0.3.5 # NO TOCAR
 
 # HODL username
-# username: "USUARIO" # < TU_USUARIO@hodl.ar
+# username: "USUARIO" # < Braianalvez@hodl.ar
 
 # NOSTR Settings
 # nostr: # Sin el # adelante
@@ -13,7 +13,7 @@ version: 0.3.5 # NO TOCAR
 # Configuración Global
 html:
 # title: Este valor no funciona porque esta comentado
-  title: Links | Mi Nombre # Este es el Título que aparece en la pestaña de navegador
+  title: Links | Braian Alvez # Este es el Título que aparece en la pestaña de navegador
 
 # Colores de plantilla
 theme:
@@ -22,7 +22,7 @@ theme:
 
 # Configuración Central
 main:
-  title: Mi Nombre # Aca podes poner tu nombre o el de tu producto
+  title: Braian Alvez # Aca podes poner tu nombre o el de tu producto
 
 # Lista de bloques
 blocks:
@@ -31,27 +31,27 @@ blocks:
 
   - title: Instagram
     icon: instagram
-    url: https://www.instagram.com/lacryptaok/
+    url: https://www.instagram.com/braiancmo/
 
 # - title: Twitter
 #   icon: twitter
-#   url: https://twitter.com/TU-USUARIO
+#   url: https://twitter.com/braian_javierA
     
 # - title: LinkedIn # Este es el nombre del botón
 #   icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
-#   url: https://linkedin.com/in/TU-USUARIO # Link a donde redireccionará al hacer click
+#   url: https://www.linkedin.com/in/braian-javier-alvez-de-olivera-8a7b7850/ # Link a donde redireccionará al hacer click
 
 # - title: Github
 #   icon: github
-#   url: https://github.com/TU-USUARIO
+#   url: https://github.com/Braianalvez
 
 # - title: Sitio Web
 #   icon: url
-#   url: https://www.TU-WEB.com
+#   url: https://marea.pro/braiancmo
 
 # - title: Telegram
 #   icon: telegram
-#   url: https://t.me/TU-USUARIO
+#   url: https://t.me/BJAlvez
     
 # Guardá el archivo haciendo click en Commit Changes, abajo
 # Volvé a las instrucciones
