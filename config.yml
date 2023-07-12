@@ -32,27 +32,5 @@ blocks:
   - title: Instagram
     icon: instagram
     url: https://www.instagram.com/braiancmo/
-
-# - title: Twitter
- #  icon: twitter
-  # url: https://twitter.com/braian_javierA
-    
- #title: LinkedIn # Este es el nombre del botón
- # icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
-  # url: https://www.linkedin.com/in/braian-javier-alvez-de-olivera-8a7b7850/ # Link a donde redireccionará al hacer click
-
- # title: Github
-  # icon: github
-  # url: https://github.com/Braianalvez
-
-
- #- title: Sitio Web
-  # icon: url
-  # url: https://marea.pro/braiancmo
-
- #- title: Telegram
-  # icon: telegram
-   #url: https://t.me/BJAlvez
-    
 # Guardá el archivo haciendo click en Commit Changes, abajo
 # Volvé a las instrucciones
