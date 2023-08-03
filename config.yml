@@ -4,11 +4,12 @@
 version: 0.3.5 # NO TOCAR
 
 # HODL username
-# username: "USUARIO" # < TU_USUARIO@hodl.ar
+# username: "Oldhouse" # < =Oldhouse@hodl.ar
 
 # NOSTR Settings
-# nostr: # Sin el # adelante
-#   npub: "TU_PUB" # Entre comillas dobles
+# nostr: # Sin el # 0ldhouse
+#   npub: "TU_PUB" # "npub13y0v3ml6sj2phesj6qgtuwf9vezj0u286acwud6wvw36ra7l5u0sandqp8"
+
 
 # Configuración Global
 html:
