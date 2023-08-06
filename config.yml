@@ -13,7 +13,7 @@ nostr: # Sin el # adelante
 # Configuración Global
 html:
 # title: Este valor no funciona porque esta comentado
-  title: Links | Mi Nombre # Este es el Título que aparece en la pestaña de navegador
+  title: Links | 0ldhouse # Este es el Título que aparece en la pestaña de navegador
 
 # Colores de plantilla
 theme:
