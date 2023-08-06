@@ -1,7 +1,7 @@
 version: 0.3.5 # NO TOCAR
 
  # HODL username
- username:"Oldhouse" # < TU_USUARIO@hodl.ar
+ username: "Oldhouse" # < TU_USUARIO@hodl.ar
 
  # NOSTR Settings
  nostr: # Sin el # adelante
@@ -20,7 +20,7 @@ theme:
 
 # Configuración Central
 main:
-  title: Mi Nombre # Aca podes poner tu nombre o el de tu producto
+  title: Oldhouse # Aca podes poner tu nombre o el de tu producto
 
 # Lista de bloques
 blocks:
@@ -29,7 +29,7 @@ blocks:
 
   - title: Instagram
     icon: instagram
-    url: https://www.instagram.com/lacryptaok/
+    url: https:///
 
 # - title: Twitter
 #   icon: twitter
