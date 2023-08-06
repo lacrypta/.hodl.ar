@@ -1,14 +1,11 @@
-# ESTO ES UN COMENTARIO
-# Todo lo que está a la derecha de # es solo para nosotros
-
 version: 0.3.5 # NO TOCAR
 
-# HODL username
-username:"Oldhouse" # < =TU_USUARIO@hodl.ar
+ # HODL username
+ username:"Oldhouse" # < TU_USUARIO@hodl.ar
 
-# NOSTR Settings
-  nostr: # Sin el # 0ldhouse
-    npub: "TU_PUB" # "npub13y0v3ml6sj2phesj6qgtuwf9vezj0u286acwud6wvw36ra7l5u0sandqp8"
+ # NOSTR Settings
+ nostr: # Sin el # adelante
+   npub: "npub13y0v3ml6sj2phesj6qgtuwf9vezj0u286acwud6wvw36ra7l5u0sandqp8" # Entre comillas dobles
 
 
 # Configuración Global
