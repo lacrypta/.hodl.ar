@@ -1,7 +1,7 @@
 version: 0.3.5 # NO TOCAR
 
  # HODL username
- username: "Oldhouse" # < TU_USUARIO@hodl.ar
+ username: "0ldhouse" # < TU_USUARIO@hodl.ar
 
  # NOSTR Settings
  nostr: # Sin el # adelante
@@ -20,7 +20,7 @@ theme:
 
 # Configuración Central
 main:
-  title: Oldhouse # Aca podes poner tu nombre o el de tu producto
+  title: 0ldhouse # Aca podes poner tu nombre o el de tu producto
 
 # Lista de bloques
 blocks:
