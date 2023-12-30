@@ -4,46 +4,46 @@
 version: 0.3.5 # NO TOCAR
 
 # HODL username
-# username: "USUARIO" # < TU_USUARIO@hodl.ar
+username: "pilar" # < pilar@hodl.ar
 
 # NOSTR Settings
-# nostr: # Sin el # adelante
-#   npub: "TU_PUB" # Entre comillas dobles
+nostr: # Sin el # adelante
+  npub: "npub1j5qcskztyr6mg7naqw5vwql078t8tjha7g0xy94qqhaupkqn7kdq5unmyk" # Entre comillas dobles
 
 # Configuración Global
 html:
 # title: Este valor no funciona porque esta comentado
-  title: Links | Mi Nombre # Este es el Título que aparece en la pestaña de navegador
+  title: Links | Pilar # Este es el Título que aparece en la pestaña de navegador
 
 # Colores de plantilla
 theme:
-  background_color: "#f9fafb"
+  background_color: "#5dc1b9"
   # cover_color: "#ff7070"
 
 # Configuración Central
 main:
-  title: Mi Nombre # Aca podes poner tu nombre o el de tu producto
+  title: Pilar | Links # Aca podes poner tu nombre o el de tu producto
 
 # Lista de bloques
 blocks:
   # Estos bloques los podes editar cambiando SOLO el texto que está en blanco
   # Sacale 
 
-  - title: Instagram
-    icon: instagram
-    url: https://www.instagram.com/lacryptaok/
+  # title: Instagram
+  #  icon: instagram
+  #  url: https://www.instagram.com/lacryptaok/
 
-# - title: Twitter
-#   icon: twitter
-#   url: https://twitter.com/TU-USUARIO
+ - title: Twitter
+   icon: twitter
+   url: https://twitter.com/swap_ilar/
     
-# - title: LinkedIn # Este es el nombre del botón
-#   icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
-#   url: https://linkedin.com/in/TU-USUARIO # Link a donde redireccionará al hacer click
+ - title: LinkedIn # Este es el nombre del botón
+   icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
+   url: https://linkedin.com/in/pilarsolisr/ # Link a donde redireccionará al hacer click
 
-# - title: Github
-#   icon: github
-#   url: https://github.com/TU-USUARIO
+ - title: Github
+   icon: github
+   url: https://github.com/swapilar/
 
 # - title: Sitio Web
 #   icon: url
